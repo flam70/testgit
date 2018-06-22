@@ -5,7 +5,10 @@ public class Marabout {
 	public static String resultat() {
 		return "Trois p'tits chats ..., \n" 
 				+ "Chapeau de paille ..., \n"
-				+ "Paillasson ...";
+				+ "Paillasson ..., \n"
+				+ "Somnambule ..., \n"
+				+ "Bulletin ... \n"
+				+" Tintamarre ...";
 	}
 
 }
